@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tags/*
+
+Sitemap: https://dianshao-embedded.github.io/dishes-docs/sitemap.xml
